@@ -284,6 +284,15 @@ Three
     </item>
     
     <item>
+      <title>Conjexure - Stock Market Forecasting</title>
+      <link>https://harshgeek4coder.github.io/project/conjexure-stock-market-forecasting-web-app/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://harshgeek4coder.github.io/project/conjexure-stock-market-forecasting-web-app/</guid>
+      <description>&lt;p&gt;Conjexure is a machine learning web app for forecasting the stock prices of certain companies into the future. Conjexure utilizes the stock prices for Alphabet Inc. (GOOGL) and Apple Inc. (AAPL) for training. This is primarily because the closing stock price graph for these companies over time is quite smooth overall and avoids any sudden ups or downs and follows a healthy upwards trend.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Example Project</title>
       <link>https://harshgeek4coder.github.io/project/example/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
