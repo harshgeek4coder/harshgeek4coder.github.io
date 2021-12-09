@@ -2,16 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://harshgeek4coder.github.io/talk/example-talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <loc>https://harshgeek4coder.github.io/tag/deep-learning/</loc>
+    <lastmod>2021-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://harshgeek4coder.github.io/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://harshgeek4coder.github.io/event/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://harshgeek4coder.github.io/tag/deep-learning/</loc>
     <lastmod>2021-07-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://harshgeek4coder.github.io/tag/packages-tools/</loc>
@@ -40,6 +34,9 @@
   </url><url>
     <loc>https://harshgeek4coder.github.io/publication/smart-_and_context_aware_system-_employing_emotions_recognition/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://harshgeek4coder.github.io/event/</loc>
+    <lastmod>2021-05-02T13:00:00+00:00</lastmod>
   </url><url>
     <loc>https://harshgeek4coder.github.io/talk/talk-at-tensorflow-user-group-chennai/</loc>
     <lastmod>2021-05-02T13:00:00+00:00</lastmod>
