@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Harsh Sharma</title>
-    <link>https://example.com/publication/</link>
-      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://harshgeek4coder.github.io/publication/</link>
+      <atom:link href="https://harshgeek4coder.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu48cf5eb841f0409857bbe5bd35b189d7_4666_512x512_fill_lanczos_center_3.png</url>
+      <url>https://harshgeek4coder.github.io/media/icon_hu48cf5eb841f0409857bbe5bd35b189d7_4666_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://example.com/publication/</link>
+      <link>https://harshgeek4coder.github.io/publication/</link>
     </image>
     
     <item>
       <title>Smart and Context-Aware System employing Emotions Recognition</title>
-      <link>https://example.com/publication/smart-_and_context_aware_system-_employing_emotions_recognition/</link>
+      <link>https://harshgeek4coder.github.io/publication/smart-_and_context_aware_system-_employing_emotions_recognition/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/smart-_and_context_aware_system-_employing_emotions_recognition/</guid>
+      <guid>https://harshgeek4coder.github.io/publication/smart-_and_context_aware_system-_employing_emotions_recognition/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
